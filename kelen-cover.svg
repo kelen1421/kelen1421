@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="304" viewBox="0 0 1024 304" role="img" aria-labelledby="title desc">
+  <title id="title">KELEN · Personal Archive</title>
+  <desc id="desc">A cream wordmark on a forest-green archive cover with a seed suspended in orbital rings.</desc>
+  <rect width="1024" height="304" rx="16" fill="#202b22"/>
+  <g fill="#eaece1" font-family="Arial, Helvetica, sans-serif">
+    <text x="55" y="72" font-size="27" font-weight="600">Personal Archive</text>
+    <text x="49" y="193" font-size="126" font-weight="800" letter-spacing="-7">KELEN</text>
+    <text x="55" y="251" font-size="27" fill="#bdc9aa">Stay curious.</text>
+  </g>
+  <g transform="translate(783 152)">
+    <circle r="115" fill="#29372a"/>
+    <g fill="none" stroke="#839676" stroke-width="1.7">
+      <circle r="115"/>
+      <ellipse rx="153" ry="62" transform="rotate(-25)"/>
+      <ellipse rx="153" ry="62" transform="rotate(25)"/>
+      <ellipse rx="115" ry="59" transform="rotate(90)"/>
+    </g>
+    <path d="M-33 4C-14-30 12-41 37-36C37-6 23 24-13 36C-29 27-37 16-33 4Z" fill="#c5d898"/>
+    <path d="M-30 29C-15 13 4-4 25-22" fill="none" stroke="#405032" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="-107" cy="-66" r="6" fill="#eaece1"/>
+    <circle cx="121" cy="-52" r="8" fill="#c5d898"/>
+    <circle cx="78" cy="89" r="5" fill="#eaece1"/>
+  </g>
+</svg>
