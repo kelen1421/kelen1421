@@ -1,24 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="304" viewBox="0 0 1024 304" role="img" aria-labelledby="title desc">
-  <title id="title">KELEN · Tools &amp; Apps</title>
-  <desc id="desc">KELEN tools and applications, with a cream wordmark on a forest-green cover.</desc>
-  <rect width="1024" height="304" rx="16" fill="#202b22"/>
-  <g fill="#eaece1" font-family="Arial, Helvetica, sans-serif">
-    <text x="55" y="72" font-size="27" font-weight="600">Tools &amp; Apps</text>
-    <text x="49" y="193" font-size="126" font-weight="800" letter-spacing="-7">KELEN</text>
-    <text x="55" y="251" font-size="27" fill="#bdc9aa">Build useful things.</text>
-  </g>
-  <g transform="translate(783 152)">
-    <circle r="115" fill="#29372a"/>
-    <g fill="none" stroke="#839676" stroke-width="1.7">
-      <circle r="115"/>
-      <ellipse rx="153" ry="62" transform="rotate(-25)"/>
-      <ellipse rx="153" ry="62" transform="rotate(25)"/>
-      <ellipse rx="115" ry="59" transform="rotate(90)"/>
-    </g>
-    <path d="M-33 4C-14-30 12-41 37-36C37-6 23 24-13 36C-29 27-37 16-33 4Z" fill="#c5d898"/>
-    <path d="M-30 29C-15 13 4-4 25-22" fill="none" stroke="#405032" stroke-width="2.5" stroke-linecap="round"/>
-    <circle cx="-107" cy="-66" r="6" fill="#eaece1"/>
-    <circle cx="121" cy="-52" r="8" fill="#c5d898"/>
-    <circle cx="78" cy="89" r="5" fill="#eaece1"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="title desc">
+<title id="title">KELEN · Tools &amp; Apps</title><desc id="desc">纸灰与墨黑的 KELEN 字标，沿用个人网站的立体 K 与轨道，搭配荧光绿的工具与应用标记。</desc>
+<rect width="1200" height="420" fill="#eeede8"/>
+<path d="M0 0H16V420H0Z" fill="#121310"/>
+<g fill="none" transform="translate(600 -31) scale(.68)"><defs>
+                <linearGradient id="glass-front" x1="290" y1="130" x2="550" y2="530" gradientUnits="userSpaceOnUse"><stop stop-color="#fff" stop-opacity=".97"/><stop offset=".46" stop-color="#f7faf7" stop-opacity=".7"/><stop offset="1" stop-color="#9ebfbd" stop-opacity=".38"/></linearGradient>
+                <linearGradient id="glass-side" x1="600" y1="160" x2="365" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#738b87" stop-opacity=".4"/><stop offset="1" stop-color="#f5faf7" stop-opacity=".07"/></linearGradient>
+                <linearGradient id="glass-ribbon" x1="250" y1="550" x2="680" y2="280" gradientUnits="userSpaceOnUse"><stop stop-color="#dde5db" stop-opacity=".12"/><stop offset=".5" stop-color="#b9d7d4" stop-opacity=".88"/><stop offset="1" stop-color="#fff" stop-opacity=".08"/></linearGradient>
+                <radialGradient id="scene-glow"><stop stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+                <filter id="glass-shadow" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="24" stdDeviation="20" flood-color="#47615b" flood-opacity=".13"/></filter>
+              </defs>
+              <ellipse cx="432" cy="590" rx="155" ry="20" fill="#6f827a" opacity=".06"/>
+              <circle cx="435" cy="334" r="285" fill="url(#scene-glow)"/>
+              <g class="scene-topography" stroke="#657770" stroke-width=".7" opacity=".23">
+                <path d="M-25 520 125 409 226 472 356 330 541 454 680 311 925 510"/><path d="M-25 543 125 432 226 495 356 353 541 477 680 334 925 533"/><path d="M-25 566 125 455 226 518 356 376 541 500 680 357 925 556"/><path d="M-25 589 125 478 226 541 356 399 541 523 680 380 925 579"/><path d="M-25 612 125 501 226 564 356 422 541 546 680 403 925 602"/>
+                <path d="M125 409V624M226 472V646M356 330V607M541 454V624M680 311V604" stroke-dasharray="2 8"/>
+              </g>
+              <g class="scene-halo" stroke="#97afaa" stroke-width=".8">
+                <circle cx="435" cy="334" r="241" opacity=".42"/><circle cx="435" cy="334" r="228" stroke-dasharray="2 13" opacity=".5"/>
+                <path d="M435 75A259 259 0 0 1 682 255M435 593A259 259 0 0 1 185 402" stroke="#739c99" stroke-width="2"/>
+                <circle cx="435" cy="75" r="4" fill="#799f9b" stroke="none"/><circle cx="435" cy="593" r="4" fill="#b4c866" stroke="none"/>
+              </g>
+              <g class="scene-orbit" stroke="#7f9f9c" stroke-width="1" opacity=".55">
+                <ellipse cx="435" cy="334" rx="292" ry="91" transform="rotate(-29 435 334)"/><ellipse cx="435" cy="334" rx="270" ry="66" transform="rotate(35 435 334)" stroke-dasharray="4 12"/>
+                <circle cx="191" cy="468" r="6" fill="#a5c5bf" stroke="#f7f9f4" stroke-width="3"/>
+              </g>
+              <g class="scene-glass" filter="url(#glass-shadow)">
+                <path d="M351 133 402 151 402 522 351 504Z" fill="url(#glass-side)" stroke="#fff" stroke-opacity=".55"/>
+                <path d="M402 151 452 133 452 504 402 522Z" fill="url(#glass-front)" stroke="#fff" stroke-width="1.6"/>
+                <path d="M351 133 401 114 452 133 402 151Z" fill="#fafcf7" stroke="#fff"/>
+                <path d="M452 304 561 167 610 185 500 322Z" fill="url(#glass-side)" stroke="#fff" stroke-opacity=".6"/>
+                <path d="M452 304 500 322 610 185 659 167 548 322 500 359 452 341Z" fill="url(#glass-front)" stroke="#fff" stroke-width="1.5"/>
+                <path d="M561 167 610 148 659 167 610 185Z" fill="#f9fbf5" stroke="#fff"/>
+                <path d="M452 341 500 359 641 510 591 528 452 378Z" fill="url(#glass-side)" stroke="#fff" stroke-opacity=".6"/>
+                <path d="M500 359 548 341 690 491 641 510Z" fill="url(#glass-front)" stroke="#fff" stroke-width="1.4"/>
+                <path d="M591 528 641 510 690 491 641 510Z" fill="#eef7ef" stroke="#fff"/>
+                <path d="M402 171V496M512 320 635 172M519 365 663 497" stroke="#fff" stroke-width="2" opacity=".7"/>
+              </g>
+              <g class="scene-ribbon">
+                <path d="M125 390C322 665 445 114 779 351C558 150 340 719 125 390Z" fill="url(#glass-ribbon)"/>
+                <path d="M125 390C322 665 445 114 779 351" stroke="#e9f4ee" stroke-width="1.5"/>
+              </g>
+              <g class="scene-fragments" fill="#f9fcf7" stroke="#b0c2b9" stroke-width=".7">
+                <path d="M248 171 268 133 280 186Z"/><path d="M664 265 685 217 710 256Z"/><path d="M274 463 293 505 243 513Z"/><path d="M601 593 643 570 626 618Z"/>
+              </g>
+              <g class="scene-birds" fill="#597570" opacity=".48"><path d="m174 244 30 11 23-16-17 25-7 3Z"/><path d="m619 103 18 7 18-11-12 18-7 1Z"/><path d="m667 481 19 7 16-11-10 19-6 1Z"/></g>
+              <g class="scene-measures" stroke="#58716a" stroke-width=".7" opacity=".5"><path d="M299 91h19m-9.5-9.5v19M707 396h19m-9.5-9.5v19M188 583h19m-9.5-9.5v19"/><path d="M310 92H420M716 396v80h-61M198 583v-40h40" stroke-dasharray="3 5"/></g>
+            </g>
+<g font-family="Manrope,Arial,Helvetica,sans-serif" fill="#121310">
+<text x="56" y="104" font-size="38" font-weight="600">Tools &amp; Apps</text>
+<text x="48" y="268" font-size="180" font-weight="800" letter-spacing="-12">KELEN</text>
+<rect x="56" y="323" width="65" height="15" fill="#b3d957"/>
+<text x="142" y="342" font-size="31" font-weight="500">Build useful things.</text>
+</g></svg>

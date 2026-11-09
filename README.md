@@ -1,39 +1,45 @@
 ![KELEN · Tools & Apps](./kelen-cover.svg)
 
-# 工具与应用
+# 把想法，做成能用的工具。
 
-可直接体验、下载安装或查看源码的项目。工具与技能用于复用工作方法，应用用于完成具体任务。
+从日常问题出发，制作可体验的交互、可复用的技能和随手可用的应用。
 
-**[体验网页交互 →](https://web-interaction-effects-kelen.kepaniizzard400.chatgpt.site/)**　·　[下载 ai工作台](https://github.com/kelen1421/task-processing-progress-tool/releases/latest)
+**[体验网页交互 ↗](https://web-interaction-effects-kelen.kepaniizzard400.chatgpt.site/)**　 ·　[下载 ai工作台 ↗](https://github.com/kelen1421/task-processing-progress-tool/releases/latest)
 
 ## 工具与技能
 
+[![网页交互效果：32 项原理演示，配套 Codex skill](./interaction-cover.svg)](https://web-interaction-effects-kelen.kepaniizzard400.chatgpt.site/)
+
 ### 网页交互效果
 
-把“像这样动起来”变成可操作的示例和可实施的需求，配套可安装的 Codex skill。
+把“像这样动起来”，转成准确术语、可操作示例和可实施的需求。调用时先展示完整效果目录与预览，再按目标解释、选型或实现。
 
-- **32 项演示**：加载转场、滚动、悬停、弹簧与拖拽。
-- **先看再用**：调用时展示完整效果目录与预览，按目标选择效果。
-- **便于复用**：调整参数、复制需求描述，也可下载预览离线使用。
+**加载转场 · 滚动 · 悬停 · 弹簧与拖拽**，共 32 项教学演示。可以调整参数、复制需求描述，也可以下载后离线使用。
 
-**[在线体验](https://web-interaction-effects-kelen.kepaniizzard400.chatgpt.site/)** · [安装 skill](https://github.com/kelen1421/web-interaction-effects#安装与调用) · [源码与说明](https://github.com/kelen1421/web-interaction-effects)
+**[打开全部演示 ↗](https://web-interaction-effects-kelen.kepaniizzard400.chatgpt.site/)**　 ·　[安装 skill](https://github.com/kelen1421/web-interaction-effects#安装与调用)　 ·　[查看源码](https://github.com/kelen1421/web-interaction-effects)
 
-<sub>HTML · JavaScript · Python · Codex skill</sub>
+HTML / JavaScript / Python / Codex skill
+
+<br>
 
 ## 应用
 
+[![ai工作台：macOS 任务进度浮窗，图示为四宫格、条形与圆环布局](./workbench-cover.svg)](https://github.com/kelen1421/task-processing-progress-tool/releases/latest)
+
 ### ai工作台
 
-macOS 置顶浮窗，用来查看 Codex 聊天任务的阶段与进度。在其他应用工作时，任务状态仍留在手边。
+在其他应用工作时，也能看到 Codex 的任务进度。macOS 原生置顶浮窗，让任务阶段、完成提醒和最近对话留在手边。
 
-- **多种布局**：四宫格、条式列表与圆球模式。
-- **任务常驻**：固定任务，查看阶段、进度和完成提醒。
-- **轻量对话**：在工作台内查看最近消息、继续任务。
+**四宫格 · 条式列表 · 圆球模式**，支持固定任务与轻量内置对话。可选择适合当前工作的布局，再继续手上的事。
 
-**[下载 macOS 版](https://github.com/kelen1421/task-processing-progress-tool/releases/latest)** · [安装与使用](https://github.com/kelen1421/task-processing-progress-tool#下载安装) · [源码与说明](https://github.com/kelen1421/task-processing-progress-tool)
+**[下载 macOS 版 ↗](https://github.com/kelen1421/task-processing-progress-tool/releases/latest)**　 ·　[安装与使用](https://github.com/kelen1421/task-processing-progress-tool#下载安装)　 ·　[查看源码](https://github.com/kelen1421/task-processing-progress-tool)
 
-<sub>Swift · macOS 13+ · Apple 芯片 / Intel Mac</sub>
+Swift / macOS 13+ / Apple 芯片与 Intel Mac
 
-## 使用与反馈
+<br>
 
-先体验演示或下载工具，再按各仓库 README 安装、运行。适用平台、已验证的行为与当前限制在对应仓库中说明；遇到问题，可在项目的 Issues 提供复现步骤。
+## 一起把工具做好
+
+适用平台、安装方法和当前限制都写在项目说明中。遇到问题或有改进建议，欢迎附上复现步骤。
+
+[反馈网页交互问题](https://github.com/kelen1421/web-interaction-effects/issues)　 ·　[反馈 ai工作台问题](https://github.com/kelen1421/task-processing-progress-tool/issues)

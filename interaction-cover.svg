@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">网页交互效果 · 32 项原理演示</title><desc id="desc">纸灰背景上的弹簧轨迹与边界图形，代表加载、滚动、悬停、弹簧与拖拽四类效果。</desc>
+<rect width="1200" height="330" fill="#eeede8"/>
+<g fill="#121310" font-family="Manrope,Arial,'PingFang SC','Microsoft YaHei',sans-serif">
+<text x="54" y="83" font-size="31">Web interactions</text>
+<text x="50" y="169" font-size="64" font-weight="700">网页交互效果</text>
+<text x="54" y="264" font-size="29">32 项演示 · Codex skill</text></g>
+<g transform="translate(665 45)">
+<path d="M0 174H456" stroke="#c9c8c1" stroke-width="2"/>
+<path d="M12 155C43 155 43 16 73 16S105 215 135 215S167 81 198 81S231 174 264 174S298 126 328 126S365 145 398 145H443" fill="none" stroke="#121310" stroke-width="6" stroke-linecap="round"/>
+<path d="M444 6V230" stroke="#121310" stroke-width="4"/>
+<rect x="412" y="116" width="61" height="61" rx="6" fill="#b3d957"/>
+<path d="m434 135 13 11-13 11" fill="none" stroke="#121310" stroke-width="3"/>
+</g></svg>

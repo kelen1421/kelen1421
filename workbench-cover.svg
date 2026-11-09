@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">ai工作台 · macOS 应用</title><desc id="desc">墨黑背景中的四宫格、条形与圆环布局示意，对应任务进度浮窗的多种显示方式。</desc>
+<rect width="1200" height="330" fill="#121310"/>
+<g fill="#eeede8" font-family="Manrope,Arial,'PingFang SC','Microsoft YaHei',sans-serif">
+<text x="54" y="83" font-size="31">Stay in the flow.</text>
+<text x="50" y="169" font-size="64" font-weight="700">ai工作台</text>
+<text x="54" y="264" font-size="29">任务进度，留在手边。</text></g>
+<g transform="translate(672 54)">
+<rect width="84" height="84" rx="5" fill="#b3d957"/><rect x="98" width="84" height="84" rx="5" fill="#44483b"/>
+<rect y="98" width="84" height="84" rx="5" fill="#44483b"/><rect x="98" y="98" width="84" height="84" rx="5" fill="#eeede8"/>
+<path d="M232 9H421M232 45H421M232 81H421" stroke="#44483b" stroke-width="12"/>
+<path d="M232 9H352M232 45H300M232 81H386" stroke="#eeede8" stroke-width="12"/>
+<circle cx="377" cy="164" r="45" fill="none" stroke="#44483b" stroke-width="13"/>
+<path d="M377 119A45 45 0 1 1 334 177" fill="none" stroke="#b3d957" stroke-width="13"/>
+</g></svg>
