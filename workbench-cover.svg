@@ -1,15 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-<title id="title">ai工作台 · macOS 应用</title><desc id="desc">墨黑背景中的四宫格、条形与圆环布局示意，对应任务进度浮窗的多种显示方式。</desc>
-<rect width="1200" height="330" fill="#121310"/>
-<g fill="#eeede8" font-family="Manrope,Arial,'PingFang SC','Microsoft YaHei',sans-serif">
-<text x="54" y="83" font-size="31">Stay in the flow.</text>
-<text x="50" y="169" font-size="64" font-weight="700">ai工作台</text>
-<text x="54" y="264" font-size="29">任务进度，留在手边。</text></g>
-<g transform="translate(672 54)">
-<rect width="84" height="84" rx="5" fill="#b3d957"/><rect x="98" width="84" height="84" rx="5" fill="#44483b"/>
-<rect y="98" width="84" height="84" rx="5" fill="#44483b"/><rect x="98" y="98" width="84" height="84" rx="5" fill="#eeede8"/>
-<path d="M232 9H421M232 45H421M232 81H421" stroke="#44483b" stroke-width="12"/>
-<path d="M232 9H352M232 45H300M232 81H386" stroke="#eeede8" stroke-width="12"/>
-<circle cx="377" cy="164" r="45" fill="none" stroke="#44483b" stroke-width="13"/>
-<path d="M377 119A45 45 0 1 1 334 177" fill="none" stroke="#b3d957" stroke-width="13"/>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc"><title id="title">ai工作台 · 任务进度浮窗</title><desc id="desc">银白界面上的悬浮任务面板和环形进度结构示意，代表四宫格、条式与圆球显示。</desc><defs><linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17212b"/><stop offset=".21" stop-color="#c4d4df"/><stop offset=".37" stop-color="#344858"/><stop offset=".49" stop-color="#111922"/><stop offset=".68" stop-color="#8196a5"/><stop offset=".81" stop-color="#d1e6ef"/><stop offset="1" stop-color="#263746"/></linearGradient><linearGradient id="edge" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#233c4c"/><stop offset=".43" stop-color="#99e0ff"/><stop offset=".75" stop-color="#ecf9ff"/><stop offset="1" stop-color="#374c5c"/></linearGradient><radialGradient id="lens"><stop stop-color="#202f3e"/><stop offset=".66" stop-color="#111b25"/><stop offset=".91" stop-color="#070b11"/><stop offset="1" stop-color="#526e7f"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#263b4b"/><stop offset="1" stop-color="#0b121b"/></linearGradient></defs>
+<rect width="1200" height="330" fill="#e8edf1"/>
+<g transform="translate(830 165)" fill="none"><ellipse rx="230" ry="105" transform="rotate(-19)" stroke="#bccbd5"/><ellipse rx="205" ry="98" transform="rotate(25)" stroke="#b0c1cd" stroke-dasharray="3 9"/></g>
+<g transform="translate(694 56)"><path d="M0 22 246 0 246 195 0 217Z" fill="#aab9c5"/><path d="M16 8 262 -14 262 181 16 203Z" fill="url(#panel)" stroke="#677f90"/>
+<g fill="#dae7ee"><path d="M39 34 127 26 127 81 39 89Z"/><path d="M140 25 229 17 229 72 140 80Z" fill="#7a98ad"/><path d="M39 103 127 95 127 150 39 158Z" fill="#7a98ad"/><path d="M140 94 229 86 229 141 140 149Z"/></g>
+<circle cx="307" cy="159" r="67" fill="#0c141d" stroke="#617d90" stroke-width="2"/><circle cx="307" cy="159" r="47" fill="none" stroke="#2e4354" stroke-width="9"/><path d="M307 112A47 47 0 1 1 263 176" fill="none" stroke="#b8e8ff" stroke-width="9"/>
+</g>
+<g font-family="Arial,Helvetica,'PingFang SC','Microsoft YaHei',sans-serif" fill="#0c121b"><text x="54" y="78" font-size="29" fill="#425a6c">macOS / Task companion</text><text x="50" y="168" font-size="64" font-weight="700">ai工作台</text><text x="54" y="265" font-size="29">任务进度，留在手边。</text></g></svg>

@@ -24,7 +24,7 @@ HTML / JavaScript / Python / Codex skill
 
 ## 应用
 
-[![ai工作台：macOS 任务进度浮窗，图示为四宫格、条形与圆环布局](./workbench-cover.svg)](https://github.com/kelen1421/task-processing-progress-tool/releases/latest)
+[![ai工作台：macOS 任务进度浮窗，图示为四宫格与圆环布局](./workbench-cover.svg)](https://github.com/kelen1421/task-processing-progress-tool/releases/latest)
 
 ### ai工作台
 

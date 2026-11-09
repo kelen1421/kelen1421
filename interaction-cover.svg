@@ -1,14 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-<title id="title">网页交互效果 · 32 项原理演示</title><desc id="desc">纸灰背景上的弹簧轨迹与边界图形，代表加载、滚动、悬停、弹簧与拖拽四类效果。</desc>
-<rect width="1200" height="330" fill="#eeede8"/>
-<g fill="#121310" font-family="Manrope,Arial,'PingFang SC','Microsoft YaHei',sans-serif">
-<text x="54" y="83" font-size="31">Web interactions</text>
-<text x="50" y="169" font-size="64" font-weight="700">网页交互效果</text>
-<text x="54" y="264" font-size="29">32 项演示 · Codex skill</text></g>
-<g transform="translate(665 45)">
-<path d="M0 174H456" stroke="#c9c8c1" stroke-width="2"/>
-<path d="M12 155C43 155 43 16 73 16S105 215 135 215S167 81 198 81S231 174 264 174S298 126 328 126S365 145 398 145H443" fill="none" stroke="#121310" stroke-width="6" stroke-linecap="round"/>
-<path d="M444 6V230" stroke="#121310" stroke-width="4"/>
-<rect x="412" y="116" width="61" height="61" rx="6" fill="#b3d957"/>
-<path d="m434 135 13 11-13 11" fill="none" stroke="#121310" stroke-width="3"/>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc"><title id="title">网页交互效果 · 32 项演示</title><desc id="desc">深黑的交互实验画面：冰蓝弹簧轨迹穿过目标和边界，圆形轨道呼应作品集的透镜语言。</desc><defs><linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17212b"/><stop offset=".21" stop-color="#c4d4df"/><stop offset=".37" stop-color="#344858"/><stop offset=".49" stop-color="#111922"/><stop offset=".68" stop-color="#8196a5"/><stop offset=".81" stop-color="#d1e6ef"/><stop offset="1" stop-color="#263746"/></linearGradient><linearGradient id="edge" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#233c4c"/><stop offset=".43" stop-color="#99e0ff"/><stop offset=".75" stop-color="#ecf9ff"/><stop offset="1" stop-color="#374c5c"/></linearGradient><radialGradient id="lens"><stop stop-color="#202f3e"/><stop offset=".66" stop-color="#111b25"/><stop offset=".91" stop-color="#070b11"/><stop offset="1" stop-color="#526e7f"/></radialGradient></defs>
+<rect width="1200" height="330" fill="#0c121b"/>
+<g transform="translate(910 165)"><circle r="132" fill="url(#lens)"/><circle r="143" fill="none" stroke="#344859" stroke-width="1"/><circle r="122" fill="none" stroke="#537185" stroke-dasharray="2 10" stroke-width="2"/><ellipse rx="215" ry="65" transform="rotate(-25)" fill="none" stroke="#405d70" stroke-width="1"/></g>
+<path d="M679 165H1147M1120 57V272" fill="none" stroke="#557286" stroke-width="1"/>
+<path d="M690 165C717 165 717 64 744 64S772 262 800 262S829 106 857 106S887 209 917 209S949 141 981 141S1016 173 1050 173S1093 165 1120 165" fill="none" stroke="url(#edge)" stroke-width="5"/>
+<circle cx="1120" cy="165" r="12" fill="#cef0ff"/><circle cx="1120" cy="165" r="21" fill="none" stroke="#4d7b94"/>
+<g font-family="Arial,Helvetica,'PingFang SC','Microsoft YaHei',sans-serif" fill="#f1f5f8"><text x="54" y="78" font-size="29" fill="#aec3d3">Web interactions</text><text x="50" y="168" font-size="64" font-weight="700">网页交互效果</text><text x="54" y="265" font-size="29" fill="#c6d6e1">32 项演示 / Codex skill</text></g></svg>
