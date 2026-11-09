@@ -4,7 +4,7 @@
 
 可直接体验、下载安装或查看源码的项目。工具与技能用于复用工作方法，应用用于完成具体任务。
 
-**[体验网页交互 →](https://kelen1421.github.io/web-interaction-effects/)**　·　[下载 ai工作台](https://github.com/kelen1421/task-processing-progress-tool/releases/latest)
+**[体验网页交互 →](https://web-interaction-effects-kelen.kepaniizzard400.chatgpt.site/)**　·　[下载 ai工作台](https://github.com/kelen1421/task-processing-progress-tool/releases/latest)
 
 ## 工具与技能
 
@@ -16,7 +16,7 @@
 - **先看再用**：调用时展示完整效果目录与预览，按目标选择效果。
 - **便于复用**：调整参数、复制需求描述，也可下载预览离线使用。
 
-**[在线体验](https://kelen1421.github.io/web-interaction-effects/)** · [安装 skill](https://github.com/kelen1421/web-interaction-effects#安装与调用) · [源码与说明](https://github.com/kelen1421/web-interaction-effects)
+**[在线体验](https://web-interaction-effects-kelen.kepaniizzard400.chatgpt.site/)** · [安装 skill](https://github.com/kelen1421/web-interaction-effects#安装与调用) · [源码与说明](https://github.com/kelen1421/web-interaction-effects)
 
 <sub>HTML · JavaScript · Python · Codex skill</sub>
 
