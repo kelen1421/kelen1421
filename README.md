@@ -1,10 +1,10 @@
-![KELEN · Tools & Apps](./kelen-cover.svg)
+[![KELEN · Tools & Apps](./kelen-cover.svg)](https://kelen-tools.kepaniizzard400.chatgpt.site/)
 
 # 把想法，做成工具。
 
 从日常问题出发，制作可体验的交互、可复用的技能和随手可用的应用。
 
-**[体验网页交互 ↗](https://web-interaction-effects-kelen.kepaniizzard400.chatgpt.site/)** · [下载 ai工作台 ↗](https://github.com/kelen1421/task-processing-progress-tool/releases/latest)
+**[打开工具与应用主页 ↗](https://kelen-tools.kepaniizzard400.chatgpt.site/)** · [体验网页交互 ↗](https://web-interaction-effects-kelen.kepaniizzard400.chatgpt.site/) · [下载 ai工作台 ↗](https://github.com/kelen1421/task-processing-progress-tool/releases/latest)
 
 ## 工具与技能
 
@@ -43,3 +43,4 @@ Swift / macOS 13+ / Apple 芯片与 Intel Mac
 适用平台、安装方法和当前限制都写在项目说明中。遇到问题或有改进建议，欢迎附上复现步骤。
 
 [反馈网页交互问题](https://github.com/kelen1421/web-interaction-effects/issues) · [反馈 ai工作台问题](https://github.com/kelen1421/task-processing-progress-tool/issues)
+
